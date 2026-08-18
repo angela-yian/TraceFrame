@@ -1,0 +1,5 @@
+00:00:00.102 BOOT INFO MCU initialized session_id=boot-18
+00:00:00.118 IRQ DEBUG UART interrupt enabled session_id=boot-18
+00:00:00.451 DMA INFO transfer started transaction_id=dma-91
+00:00:00.782 WDT WARN timeout warning session_id=boot-18
+00:00:01.003 RESET FATAL watchdog reset session_id=boot-18

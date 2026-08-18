@@ -1,0 +1,2 @@
+{"timestamp":"2026-08-18T12:01:03.176Z","service":"Database","level":"info","message":"Acquiring connection from pool","request_id":"req-7f3a","pool_available":0}
+{"timestamp":"2026-08-18T12:01:03.782Z","service":"Database","level":"error","message":"Connection pool timeout after 600ms","request_id":"req-7f3a","timeout_ms":600}
