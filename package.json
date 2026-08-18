@@ -4,7 +4,7 @@
   "private": true,
   "description": "Turn raw logs into an interactive incident timeline.",
   "license": "MIT",
-  "packageManager": "pnpm@11.19.0",
+  "packageManager": "pnpm@10.34.5",
   "engines": {
     "node": ">=20"
   },
