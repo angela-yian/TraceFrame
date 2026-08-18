@@ -1,0 +1,3 @@
+2026-08-18T12:01:03.000000000Z stdout F {"service":"api-pod","level":"info","message":"container started","request_id":"req-k8s-7"}
+2026-08-18T12:01:04.200000000Z stderr F {"service":"api-pod","level":"error","message":"database connection refused","request_id":"req-k8s-7"}
+2026-08-18T12:01:04.250000000Z stderr F FATAL process exited with status 1 request_id=req-k8s-7
