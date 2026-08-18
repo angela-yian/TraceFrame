@@ -13,7 +13,7 @@
     "dev": "pnpm --filter @traceframe/web dev",
     "test": "pnpm --filter @traceframe/parser-sdk build && pnpm --filter @traceframe/parsers build && vitest run",
     "test:watch": "vitest",
-    "typecheck": "pnpm --filter @traceframe/parser-sdk build && pnpm --filter @traceframe/parsers typecheck && pnpm --filter @traceframe/core typecheck && pnpm --filter @traceframe/exporters typecheck && pnpm --filter @traceframe/web typecheck && pnpm --filter traceframe typecheck",
+    "typecheck": "pnpm --filter @traceframe/parser-sdk build && pnpm --filter @traceframe/parsers build && pnpm --filter @traceframe/core build && pnpm --filter @traceframe/exporters build && pnpm --filter @traceframe/web typecheck && pnpm --filter traceframe typecheck",
     "pack:check": "node scripts/verify-package.mjs",
     "traceframe": "node apps/cli/dist/index.js"
   },
