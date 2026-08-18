@@ -583,9 +583,9 @@ Embedded Demo 是重要差異化，能讓 TraceFrame 不只是一個 Web 開發�
 - [x] 支援 syslog
 - [x] 支援 Docker / Kubernetes Log
 - [x] 匯出 standalone HTML
-- [ ] Windows、macOS、Linux 測試
+- [x] Windows、macOS、Linux 測試
 - [ ] npm 發布
-- [ ] 完成英文 README
+- [x] 完成英文 README
 
 ### Milestone 2：增加傳播能力
 
